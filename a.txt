@@ -1,0 +1,119 @@
+[.github]
+    FUNDING.yml
+
+[.next]
+    cache
+        webpack
+    server
+        pages
+        middleware-manifest.json
+        pages-manifest.json
+        webpack-runtime.js
+        _error.js
+    static
+        chunks
+        development
+        webpack
+    build-manifest.json
+    package.json
+    react-loadable-manifest.json
+    trace
+
+[components]
+    Cart.jsx
+    Footer.jsx
+    FooterBanner.jsx
+    HeroBanner.jsx
+    index.js
+    Layout.jsx
+    Navbar.jsx
+    Product.jsx
+
+[context]
+    StateContext.js
+
+[lib]
+    client.js
+    utils.js
+    vnpay.js
+
+[pages]
+    api
+        hello.js
+        stripe.js
+    product
+        [slug].js
+    index.js
+    success.js
+    _app.js
+
+[public]
+    assets
+        a64b345016e96adfb8849af5521c8e0ecfe8f027-555x555.webp
+        earphones_a_1.webp
+        earphones_a_2.webp
+        earphones_a_3.webp
+        earphones_a_4.webp
+        earphones_b_1.webp
+        earphones_b_2.webp
+        earphones_b_3.webp
+        earphones_b_4.webp
+        earphones_c_1.webp
+        earphones_c_2.webp
+        earphones_c_3.webp
+        earphones_c_4.webp
+        headphones_a_1.webp
+        headphones_a_2.webp
+        headphones_a_3.webp
+        headphones_a_4.webp
+        headphones_b_1.webp
+        headphones_b_2.webp
+        headphones_b_3.webp
+        headphones_b_4.webp
+        headphones_c_1.webp
+        headphones_c_2.webp
+        headphones_c_3.webp
+        headphones_c_4.webp
+        speaker1.webp
+        speaker2.webp
+        speaker3.webp
+        speaker4.webp
+        watch_1.webp
+        watch_2.webp
+        watch_3.webp
+        watch_4.webp
+    favicon.ico
+    vercel.svg
+
+[sanity_ecommerce]
+    config
+        @sanity
+        .checksums
+    dist
+        static
+        index.html
+    plugins
+        .gitkeep
+    schemas
+        banner.js
+        product.js
+        schema.js
+    static
+        .gitkeep
+        favicon.ico
+    .eslintrc
+    .npmignore
+    package.json
+    README.md
+    sanity.json
+    tsconfig.json
+    yarn.lock
+
+[styles]
+    globals.css
+    Home.module.css
+
+[vnpay]
+    config
+        vnpay.config.js
+
